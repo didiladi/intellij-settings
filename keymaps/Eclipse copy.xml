@@ -2,6 +2,9 @@
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="GotoTest">
+    <keyboard-shortcut first-keystroke="ctrl windows" />
+  </action>
   <action id="LineDownMover">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
