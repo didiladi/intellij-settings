@@ -1,0 +1,7 @@
+<templateSet group="mine">
+  <template name="line" value="// -----------------------------------------------------------------------------------------------------------------" description="makes a line" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
