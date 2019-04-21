@@ -1,0 +1,7 @@
+<application>
+  <component name="RefactoringSettings">
+    <option name="EXTRACT_INTERFACE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="true" />
+  </component>
+</application>
