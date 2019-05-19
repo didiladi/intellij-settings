@@ -18,4 +18,7 @@
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="ShowContent" />
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
 </keymap>
